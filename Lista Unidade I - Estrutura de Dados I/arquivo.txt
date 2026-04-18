@@ -1,5 +1,0 @@
-Ola : 1
-tenha : 1
-um : 1
-bom : 1
-dia : 1
