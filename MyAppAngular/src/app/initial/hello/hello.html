@@ -1,0 +1,13 @@
+<p>Initial component: Hello</p>
+  <button class="btn btn-primary" (click)="AddCounter()">Add</button>
+<ul>
+    @for(item of items; track $index) {
+        <li>{{item}}</li>
+    }
+</ul>
+@if(counter() > 10) {
+        <p>Counter: {{counter()}}</p>
+
+<button class="btn btn-primary" (click)="Acao()">Ação</button>
+}
+<p>End of Hello component</p>
